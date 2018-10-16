@@ -1,0 +1,22 @@
+*{
+	margin:0;
+	box-sizing: border-box;
+	
+}
+header{
+	background-color: #784746;
+	padding: 50px;
+	font-family: 'Niramit', sans-serif;
+        text-align: center;
+}
+
+.max{
+     height: 300px;
+     width: 150px;
+     border-radius: 100px;
+     
+     padding: 5px;
+     border: 1px solid #44444;
+     background-color: white;
+
+}
